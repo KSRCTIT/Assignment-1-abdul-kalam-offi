@@ -1,0 +1,15 @@
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/bin/Debug/net9.0/Q3
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/bin/Debug/net9.0/Q3.deps.json
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/bin/Debug/net9.0/Q3.runtimeconfig.json
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/bin/Debug/net9.0/Q3.dll
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/bin/Debug/net9.0/Q3.pdb
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/obj/Debug/net9.0/Q3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/obj/Debug/net9.0/Q3.AssemblyInfoInputs.cache
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/obj/Debug/net9.0/Q3.AssemblyInfo.cs
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/obj/Debug/net9.0/Q3.csproj.CoreCompileInputs.cache
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/obj/Debug/net9.0/Q3.sourcelink.json
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/obj/Debug/net9.0/Q3.dll
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/obj/Debug/net9.0/refint/Q3.dll
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/obj/Debug/net9.0/Q3.pdb
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/obj/Debug/net9.0/Q3.genruntimeconfig.cache
+/Users/abdulkalam/github-classroom/KSRCTIT/Assignment-1-abdul-kalam-offi/c#/Q3/obj/Debug/net9.0/ref/Q3.dll
